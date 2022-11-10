@@ -5,7 +5,7 @@
 <img src="https://media.tenor.com/VTHPjZZTvI4AAAAC/luffy-luffy-d-monkey.gif" align="right" alt="Luffy Hi!" width="400">
 
 <kbd>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</kbd>
-<kbd>![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)</kbd>
+<kbd>![R](https://img.shields.io/badge/r%20lang-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)</kbd>
 <kbd>![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)</kbd>
 <kbd>![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</kbd>
 
