@@ -10,9 +10,9 @@
 <kbd>![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</kbd>
 
 <kbd>![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)</kbd>
-<kbd>![scikit-learn](https://img.shields.io/badge/scikit-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)</kbd>
+<kbd>![scikit-learn](https://img.shields.io/badge/sk--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)</kbd>
 <kbd>![SciPy](https://img.shields.io/badge/%20%20SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)</kbd>
-<kbd>![TensorFlow](https://img.shields.io/badge/%20%20Tensor-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)</kbd>
+<kbd>![TensorFlow](https://img.shields.io/badge/%20%20TF-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)</kbd>
 
 <kbd>![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)</kbd>
 <kbd>![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)</kbd>
