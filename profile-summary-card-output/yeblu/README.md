@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/VitorBSP/VitorBSP/master/profile-summary-card-output/yeblu/4-productive-time.svg)
+```
+
+    
