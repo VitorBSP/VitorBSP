@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/VitorBSP/VitorBSP/master/profile-summary-card-output/jolly/4-productive-time.svg)
-```
-
-    
